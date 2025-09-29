@@ -19,7 +19,9 @@
 -다양한 업종 찾아보기
 
 ## email
-tlstjddbs03@naver.com
+-tlstjddbs03@naver.com
+
+-tlstjddbs97@gmail.com
 
 ## github stats
 

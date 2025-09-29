@@ -21,7 +21,6 @@
 ## email
 -tlstjddbs03@naver.com
 
--tlstjddbs97@gmail.com
 
 ## github stats
 

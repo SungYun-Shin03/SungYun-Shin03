@@ -1,10 +1,12 @@
-#소개
+#Introduction
 
-##출신
-###-영남대 컴퓨터학부 정보통신공학과 2학년생
-###-한국인
-##스펙
-###-컴퓨터 활용능력 2급
-###-데이터관리 준전문가
-##목표
+##Who
+###-2nd grade college student
+###-korean
+
+##qualification
+###-computer specialist in spreadsheet & database level 2
+###-adsp
+
+##Goal
 ###-

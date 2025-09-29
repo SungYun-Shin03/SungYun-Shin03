@@ -19,7 +19,8 @@
 -다양한 업종 찾아보기
 
 ## email
--tlstjddbs03@naver.com
+![네이버](https://img.shields.io/badge/네이버-#03C75A.svg?&style=for-the-badge&logo=네이버&logoColor=#03C75A)
+tlstjddbs03@naver.com
 
 ## github stats
 

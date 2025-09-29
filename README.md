@@ -18,6 +18,7 @@
 ## email
 -tlstjddbs03@naver.com
 
+## github stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SungYun-Shin03)](https://github.com/anuraghazra/github-readme-stats)
 
